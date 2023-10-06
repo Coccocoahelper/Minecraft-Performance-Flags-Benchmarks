@@ -6,7 +6,7 @@
 
 Clone or download this repo with the "download as zip" button on GitHub. 
 
-Install a recent version of Python (preferably Python 3.10), and run this command in this folder: `python -m pip install -r requirements.txt`
+Install a recent version of Python (preferably Python 3.12), and run this command in this folder: `python -m pip install -r requirements.txt`
 
 Client benchmarks require Prism Launcher (preferrably the portable release) and Intel Presentmon. 
 https://github.com/GameTechDev/PresentMon/releases
